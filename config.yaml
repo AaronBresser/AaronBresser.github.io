@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
-title: "Perfil profesional"
+title: "Aaron Bresser"
 theme: hugo-profile
 
 Paginate: 3
